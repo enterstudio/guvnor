@@ -57,7 +57,7 @@
     "freeport": "^1.0",
     "getconfig": "^2.1.0",
     "handlebars": "^3.0.0",
-    "hapi": "^8.0",
+    "hapi": "^11.0.4",
     "hapi-auth-basic": "^2.0",
     "heapdump": "^0.3",
     "ini": "^1.3",
