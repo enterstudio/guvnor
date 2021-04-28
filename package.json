@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "ampersand-array-input-view": "^3.0",
-    "ampersand-checkbox-view": "^2.0",
+    "ampersand-checkbox-view": "^4.1.0",
     "ampersand-collection": "^1.0",
     "ampersand-collection-view": "^1.0",
     "ampersand-dom": "^1.0",
