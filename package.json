@@ -72,7 +72,7 @@
     "pem": "^1.0",
     "posix": "^4.0.0",
     "prettysize": "^0.0",
-    "prompt": "^0.2",
+    "prompt": "^1.1.0",
     "rc": "achingbrain/rc#guvnor",
     "rimraf": "^2.0",
     "semver": "^4.3.3",
